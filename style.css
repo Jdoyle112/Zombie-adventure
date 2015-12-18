@@ -1,0 +1,29 @@
+body {
+	background-image: url('zombie.jpg');
+	background-size: cover;
+	background-repeat: none;
+}
+
+.heading {
+	text-align: center;
+	color: white;
+	padding-top: 5%;
+	padding-bottom: 10%;
+}
+
+h1{
+	font-family: 'Lato';
+}
+
+p {
+	font-family: 'PT sans';
+}
+
+button {
+	padding: 15px 35px;
+	border-radius: 5px;
+	display: block;
+	margin: 0 auto;
+	background-color: #336699;
+	color: white;
+}
